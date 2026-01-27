@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=4FB3FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Cloud+Architect+%7C+DevOps+Engineer;Transforming+Infrastructure+at+Scale;Multi-Cloud+Expert+%7C+AWS+%7C+Azure+%7C+GCP;Building+the+Future+with+Kubernetes;Automation+First+%E2%80%A2+Customer+Obsessed;Certified+Professional+%E2%80%A2+Continuous+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=4FB3FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Cloud+Enthusiast+%7C+DevOps+Engineer;Transforming+Infrastructure+at+Scale;Multi-Cloud+Expert+%7C+AWS+%7C+Azure+%7C+GCP;Building+the+Future+with+Kubernetes;Automation+First+%E2%80%A2+Customer+Obsessed;Certified+Professional+%E2%80%A2+Continuous+Learner" alt="Typing SVG" />
   </a>
 </div>
 
