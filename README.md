@@ -21,11 +21,11 @@
 </tr>
 <tr>
 <td><b>Role:</b></td>
-<td>DevOps Engineer at <a href="https://facets.cloud">Facets.cloud</a></td>
+<td>DevOps Engineer & Customer Success at <a href="https://facets.cloud">Facets.cloud</a></td>
 </tr>
 <tr>
 <td><b>Profile:</b></td>
-<td><i>Passionate about building scalable multi-cloud infrastructure solutions, automating complex workflows, and implementing robust DevOps practices. Focused on delivering high-availability systems that drive business value through modern cloud-native technologies.</i></td>
+<td><i>Passionate about building scalable multi-cloud infrastructure solutions, automating complex workflows, and implementing robust DevOps practices. Additionally driving customer success through technical support, solution architecture guidance, and ensuring seamless platform adoption. Focused on delivering high-availability systems and exceptional customer experiences that drive business value through modern cloud-native technologies.</i></td>
 </tr>
 </table>
 
@@ -35,16 +35,27 @@
 
 <table align="center">
 <tr>
-<td>
-  <h3>Multi-Cloud Infrastructure & Automation</h3>
+<td width="50%">
+  <h3>🚀 DevOps & Infrastructure</h3>
 
-Working on designing and implementing scalable infrastructure solutions across **AWS, Azure, and GCP** using Infrastructure as Code principles.
+Designing and implementing scalable infrastructure solutions across **AWS, Azure, and GCP** using Infrastructure as Code principles.
 
-- Building **production-grade Kubernetes clusters** with advanced deployment strategies and high availability configurations
-- Implementing **Terraform modules** for consistent infrastructure provisioning across multiple cloud providers
-- Developing **automation frameworks** for streamlined operations, monitoring, and incident response
-- Creating **cost optimization solutions** using tools like OpenCost to provide visibility into cloud spending
-- Establishing **CI/CD pipelines** that enable rapid, reliable deployments with zero downtime
+- Building **production-grade Kubernetes clusters** with advanced deployment strategies
+- Implementing **Terraform modules** for consistent multi-cloud provisioning
+- Developing **automation frameworks** for operations, monitoring, and incident response
+- Creating **cost optimization solutions** using OpenCost for cloud spending visibility
+- Establishing **CI/CD pipelines** enabling rapid, reliable zero-downtime deployments
+</td>
+<td width="50%">
+  <h3>🤝 Customer Success</h3>
+
+Driving customer success through technical excellence and proactive engagement with enterprise clients.
+
+- Providing **technical support and guidance** for platform adoption and best practices
+- Conducting **root cause analysis** and generating detailed incident reports
+- Creating **automation tools** for customer analytics and reporting workflows
+- Managing **customer onboarding** and ensuring smooth platform integration
+- Collaborating with teams to **resolve complex technical challenges** and improve customer satisfaction
 </td>
 </tr>
 </table>
@@ -151,14 +162,22 @@ Enterprise-grade Kubernetes deployments with automated scaling, self-healing cap
   </a>
 </td>
 <td align="center">
+  <a href="https://drive.google.com/file/d/1-ALr3jtaVpa9jyQ-p9rgxLSMkpS6vjmO/view" target="_blank" title="View Certificate">
+    <img width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Using AI Workshop"/>
+    <br/>
+    <img width="100" src="https://img.shields.io/badge/AI-00D9FF?style=for-the-badge&logo=ai&logoColor=white" alt="AI Certificate"/>
+    <br/>
+    <small><b>Python Using AI Workshop</b></small>
+    <br/>
+    <small style="color: #666;">AI FOR TECHIES • Jan 2026</small>
+  </a>
+</td>
+<td align="center">
   <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect"/>
   <br/>
   <small><b>AWS Solutions Architect</b></small>
-</td>
-<td align="center">
-  <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Developer"/>
   <br/>
-  <small><b>AWS Developer Associate</b></small>
+  <small style="color: #666;">Associate Level</small>
 </td>
 </tr>
 </table>
@@ -167,6 +186,7 @@ Enterprise-grade Kubernetes deployments with automated scaling, self-healing cap
 
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified"/>
+  <img src="https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI"/>
   <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
   <img src="https://img.shields.io/badge/Multi--Cloud-Expert-00ADD8?style=for-the-badge" alt="Multi-Cloud Expert"/>
 </div>
