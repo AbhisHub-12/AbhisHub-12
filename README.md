@@ -21,11 +21,15 @@
 </tr>
 <tr>
 <td><b>💼 Current Role:</b></td>
-<td><b>DevOps Engineer & Customer Success</b> at <a href="https://facets.cloud">Facets.cloud</a></td>
+<td><b>DevOps Engineer</b> at <a href="https://facets.cloud">Facets.cloud</a></td>
 </tr>
 <tr>
 <td><b>🚀 What I Do:</b></td>
-<td><i>Architecting cloud-native solutions that power enterprise-scale applications across AWS, Azure, and GCP. I combine deep technical expertise in DevOps and infrastructure automation with a passion for customer success—ensuring every deployment is seamless and every client achieves their goals. From Kubernetes orchestration to zero-downtime CI/CD pipelines, I turn complex infrastructure challenges into elegant, automated solutions.</i></td>
+<td><i>Architecting cloud-native solutions that power enterprise-scale applications across AWS, Azure, and GCP. I combine deep technical expertise in DevOps and infrastructure automation with customer success responsibilities—ensuring every deployment is seamless and every client achieves their goals. From Kubernetes orchestration to zero-downtime CI/CD pipelines, I turn complex infrastructure challenges into elegant, automated solutions.</i></td>
+</tr>
+<tr>
+<td><b>💼 Key Responsibilities:</b></td>
+<td><i>Building multi-cloud infrastructure • Automating DevOps workflows • Driving customer success through technical excellence • Root cause analysis & incident management</i></td>
 </tr>
 <tr>
 <td><b>💡 My Philosophy:</b></td>
