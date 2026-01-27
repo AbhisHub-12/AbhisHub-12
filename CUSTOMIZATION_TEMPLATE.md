@@ -120,13 +120,21 @@ highlights:
 ### Current Certifications
 ```yaml
 certifications:
+  - name: Microsoft Certified Azure Administrator Associate
+    provider: Microsoft
+    credential_id: C7E506DF53A8065B
+    certification_number: 7ZB666-1BF7E7
+    earned_date: April 24, 2024
+    expiry_date: April 25, 2025
+    verification_url: https://learn.microsoft.com/en-us/users/abhishtbagewadi/credentials/c7e506df53a8065b
+
   - name: AWS Certified Solutions Architect - Associate
     provider: Amazon Web Services
-    badge_url: [Add Credly URL]
+    badge_url: [Add Credly URL when available]
 
   - name: AWS Certified Developer - Associate
     provider: Amazon Web Services
-    badge_url: [Add Credly URL]
+    badge_url: [Add Credly URL when available]
 
   # Add more certifications as you earn them
 ```

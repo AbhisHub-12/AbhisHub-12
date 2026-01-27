@@ -142,17 +142,34 @@ Enterprise-grade Kubernetes deployments with automated scaling, self-healing cap
 <table>
 <tr>
 <td align="center">
-  <img width="80" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect"/>
-  <br/>
-  <small>AWS Solutions Architect</small>
+  <a href="https://learn.microsoft.com/en-us/users/abhishtbagewadi/credentials/c7e506df53a8065b" target="_blank" title="Verify Azure Certification">
+    <img width="100" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsoft Certified: Azure Administrator Associate"/>
+    <br/>
+    <small><b>Azure Administrator Associate</b></small>
+    <br/>
+    <small style="color: #666;">Credential ID: C7E506DF53A8065B</small>
+  </a>
 </td>
 <td align="center">
-  <img width="80" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Developer"/>
+  <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect"/>
   <br/>
-  <small>AWS Developer Associate</small>
+  <small><b>AWS Solutions Architect</b></small>
+</td>
+<td align="center">
+  <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Developer"/>
+  <br/>
+  <small><b>AWS Developer Associate</b></small>
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
+  <img src="https://img.shields.io/badge/Multi--Cloud-Expert-00ADD8?style=for-the-badge" alt="Multi-Cloud Expert"/>
+</div>
 </div>
 
 <br>
