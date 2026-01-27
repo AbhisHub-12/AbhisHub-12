@@ -207,7 +207,7 @@ Transforming technical complexity into customer wins through proactive partnersh
 <div align="center">
   <p><i>Always open to discussing cloud architecture, DevOps best practices, or exciting collaboration opportunities!</i></p>
 
-  <a href="https://linkedin.com/in/abhisht-bagewadi" target="_blank">
+  <a href="https://www.linkedin.com/in/abhibagewadi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:abhishtbagewadi12@gmail.com">
@@ -215,10 +215,13 @@ Transforming technical complexity into customer wins through proactive partnersh
   </a>&nbsp;&nbsp;
   <a href="https://github.com/AbhisHub-12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/abhisht_bagewadi?igsh=OHFiZW1tcXZqazl3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <br><br>
-  <p>📧 <b>abhishtbagewadi12@gmail.com</b></p>
+  <p>📧 <b>abhishtbagewadi12@gmail.com</b> | 📱 <b>@abhisht_bagewadi</b></p>
 </div>
 
 <br>
