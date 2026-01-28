@@ -17,7 +17,7 @@
 <table align="center">
 <tr>
 <td width="200"><b>🎓 Education:</b></td>
-<td>B.Tech in Engineering at <a href="https://www.bldeacet.ac.in/">BLDEA's College</a></td>
+<td>Bachelor of Engineering at <a href="https://www.bldeacet.ac.in/">BLDEA's College</a></td>
 </tr>
 <tr>
 <td><b>💼 Current Role:</b></td>
