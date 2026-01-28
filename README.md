@@ -39,6 +39,45 @@
 
 <br>
 
+## <div align="center">🚧 Current Project</div>
+
+<table align="center">
+<tr>
+<td>
+  <h3>Building Production-Grade DevOps Infrastructure & Automation</h3>
+
+**Architecting and scaling enterprise infrastructure** while ensuring seamless customer experiences through DevOps excellence at **Facets.cloud**.
+
+### 🔧 Infrastructure Engineering
+- **Developing reusable Terraform modules** for multi-cloud deployments (AWS, Azure, GCP) that reduce provisioning time from hours to minutes
+- **Implementing Infrastructure as Code** best practices with automated testing, validation, and deployment pipelines
+- **Building zero-downtime deployment strategies** using Kubernetes rolling updates, blue-green deployments, and canary releases
+- **Designing highly available architectures** with auto-scaling, self-healing capabilities, and disaster recovery mechanisms
+
+### 🐛 Kubernetes Operations & Debugging
+- **Troubleshooting complex K8s issues** including pod failures, networking problems, resource constraints, and performance bottlenecks
+- **Implementing robust observability** with Prometheus, Grafana, and ELK stack for real-time monitoring and alerting
+- **Optimizing cluster performance** through resource management, HPA/VPA tuning, and efficient workload scheduling
+- **Managing production clusters** with tools like ReplicaSets, Services, ConfigMaps, and Secrets for seamless deployments
+
+### 🤖 Automation & Customer Success
+- **Creating intelligent automation frameworks** for customer analytics, incident reporting, and operational workflows
+- **Developing on-call automation** that reduces MTTR through automated diagnostics and self-healing mechanisms
+- **Building customer success tools** including automated RCA report generation and health check systems
+- **Streamlining support processes** with scripts and tools that accelerate issue resolution and improve customer satisfaction
+
+### 🚨 On-Call & Incident Management
+- **Managing production incidents** with structured incident response, root cause analysis, and post-mortem documentation
+- **Maintaining 24/7 system reliability** through proactive monitoring, automated alerting, and rapid incident response
+- **Collaborating cross-functionally** with engineering and customer success teams to ensure platform stability
+- **Continuously improving processes** based on incident learnings, feedback loops, and DevOps best practices
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## <div align="center">🎯 What I'm Building</div>
 
 <table align="center">
